@@ -9,6 +9,8 @@ CapsLock has been remapped to Hyper Key: Ctrl+Alt+Shift
 Hyper_key + c: Launch chrome
 Hyper_key + f: Launch explorer.exe
 
+** App will be launched if not launched. Activated if launched but not active; Minimized if active.
+
 # Switch windows within same app
 Hyper_key + `: switch windows within chrome, and etc.
 
