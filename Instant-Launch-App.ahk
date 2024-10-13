@@ -90,7 +90,6 @@ ShowInfoForActiveApp()
  
         info := "Information about active App:`nAppClass: " . AppClass . "`nProcessName: " . AppProcessName . "`nProcessPath: " . AppProcessPath
         A_Clipboard := info
-        Send "^c"
         ClipWait  ; Wait for the clipboard to contain text.
         MsgBox(info)
 }
