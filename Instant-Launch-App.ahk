@@ -118,3 +118,9 @@ ShowInfoForActiveApp()
 
 ; HyperKey + f -- explorer
 ^+!f::OpenOrShowOrHideAppBasedOnClass("CabinetWClass")
+
+; HyperKey + N -- launch OneNote
+^+!n::OpenOrShowOrHideAppBasedOnExeName("C:\Program Files\Microsoft Office\root\Office16\ONENOTE.EXE")
+
+; HyperKey + s -- Sublime text
+^+!s::OpenOrShowOrHideAppBasedOnExeName(" C:\Program Files\Sublime Text\sublime_text.exe")
