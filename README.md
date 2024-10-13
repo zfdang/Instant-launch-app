@@ -8,6 +8,8 @@ CapsLock has been remapped to Hyper Key: Ctrl+Alt+Shift
 # Instant launch app
 - Hyper_key + c: Launch chrome
 - Hyper_key + f: Launch explorer.exe
+- Hyper_key + n: Launch onenote
+- Hyper_key + s: Launch sublime-text
 
 **App will be launched if not launched. Activated if launched but not active; Minimized if active.**
 
