@@ -114,7 +114,7 @@ ShowInfoForActiveApp()
 ^+!c::OpenOrShowOrHideAppBasedOnExeName("C:\Program Files\Google\Chrome\Application\chrome.exe")
 
 ; HyperKey + t -- launch thunder
-^+!t::OpenOrShowOrHideAppBasedOnExeName("C:\Program Files\Sublime Text\sublime_text.exe")
+^+!t::OpenOrShowOrHideAppBasedOnExeName("D:\Software\Thunder\Thunder\Program\Thunder.exe")
 
 ; HyperKey + f -- explorer
 ^+!f::OpenOrShowOrHideAppBasedOnClass("CabinetWClass")
