@@ -17,4 +17,5 @@ Hyper_key + `: switch windows within chrome, and etc.
 # Show information about active app
 Hyper_key + i
 
+App information will also be copied to clipboard.
 
